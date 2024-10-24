@@ -11,11 +11,11 @@ The study highlights the intertwined genetic and clinical relationships between 
 The National Key Research and Development Program of China (2023YFC2506200). The National Natural Science Foundation of China (82273741).
 
 ## Author Affiliations
-1.Department of Psychiatry, the First Affiliated Hospital, Zhejiang University School of Medicine
-2.Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne
-3.Department of Biostatistics, Center for Global Health, School of Public Health, Nanjing Medical University
-4.Department of Epidemiology and Biostatistics, School of Public Health, Jilin University
-5.Department of Neurosurgery, Xinjiang Medical University Affiliated First Hospital
-6.Nanhu Brain-computer Interface Institute
+### 1.Department of Psychiatry, the First Affiliated Hospital, Zhejiang University School of Medicine
+### 2.Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne
+### 3.Department of Biostatistics, Center for Global Health, School of Public Health, Nanjing Medical University
+### 4.Department of Epidemiology and Biostatistics, School of Public Health, Jilin University
+### 5.Department of Neurosurgery, Xinjiang Medical University Affiliated First Hospital
+### 6.Nanhu Brain-computer Interface Institute
 
 If you have any questions, please contact the author, Yu Feng (fengyu19981121@gmail.com).
