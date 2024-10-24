@@ -8,7 +8,8 @@ We identified significant bidirectional clinical risks between psychiatric disor
 ## Interpretation: 
 The study highlights the intertwined genetic and clinical relationships between psychiatric disorders and metabolic dysregulations, emphasizing the need for integrated approaches in diagnosis and treatment.
 ## Funding: 
-The National Key Research and Development Program of China (2023YFC2506200). The National Natural Science Foundation of China (82273741).
+The National Key Research and Development Program of China (2023YFC2506200). 
+The National Natural Science Foundation of China (82273741).
 
 
 If you have any questions, please contact the author, Yu Feng (fengyu19981121@gmail.com).
