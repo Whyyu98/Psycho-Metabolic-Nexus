@@ -29,7 +29,7 @@ For these potential pleiotropic loci (markers in the ±100 kb range), bayesian c
 ## 6. GARFIELD
 ### garfield_input_for.R, Garfield, and garfield_output_for.R
 The functional impact of shared genetic signalling was investigated using GARFIELD, focusing on SNPs identified in MTAG. GARFIELD compared annotated markers from specific cell types and adjusted for various genetic factors.  Under Bonferroni correction based on the number of annotations from each tissue, relevant tissues were grouped into 26 categories. Proportions of significant annotations in each category were examined with Pearson correlation test.
-## 7. Identification of pleiotropic genes
+## 7. Identification of Pleiotropic Genes
 ### MAGMA_for.sh, mBAT.sh, POPS_for.sh, SMR.sh, and TWAS.sh
 To identify associations at loci identified in cross-trait meta-analyses for each trait pair, we conducted Summary-data-based Mendelian Randomization (SMR), functional Summary-Based Imputation (FUSION), Polygenic Priority Score (PoPS), and mBAT-combo (mBAT) analyses.
 ## 8. Mendelian Randomization (MR)
