@@ -40,7 +40,7 @@ To infer causality between psychiatric disorders and metabolic profiles, MR was 
 To validate the genetic role in comorbidity, PRS was constructed using Deterministic Bayesian Sparse Linear Mixed Model (DBSLMM) based on GWAS statistics for psychiatric disorders and metabolic profiles. Continuous traits were modelled with Gaussian linear models and binary traits with generalised logistic regression, testing PRS effectiveness for each trait. Adjustments were made for age, sex, the top 10 genetic principal components, and income. Models with two PRS were assessed for improved predictive performance beyond outcome-specific PRS. Pearson's R² and McFadden's pseudo-R² evaluated model performance with FDR correction. Bootstrap calculated 95% confidence intervals (CI) for Pearson's R² and area under the curve for binary traits.
 
 ## Other Web Tools
-GWAShug: https://www.gwashug.com/  
+GWAShug: http://www.gwashug.com/  
 PGSFusion: http://www.pgsfusion.net/#/  
 PGS-Depot: http://www.pgsdepot.net/  
 
